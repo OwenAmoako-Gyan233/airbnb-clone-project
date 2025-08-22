@@ -22,7 +22,9 @@ User authentication to prevent an influx of bots and also gather necessary infor
 Page                       |   Description
 -----------------------------------------------------------------------------------------------------------------
 Home/Property Listing Page |   A Grid display of available properties with filters such as price, number of rooms etc.
+
 Listing Detailed Page      |  	Complete property details with images and booking form 
+
 Simple Checkout  Page      |  	Streamlined payment and booking confirmation page
 
 A user-friendly design in this system will make the booking process easy. This means users can navigate through the searching, reservation, and payment stages in-app without difficulty.
