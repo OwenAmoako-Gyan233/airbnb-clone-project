@@ -45,14 +45,22 @@ Design properties serve as guidelines during development. This helps to ensure v
 
 ## Project Roles and Responsibilities.
 Role	              | Responsibilities
+
 Project Manager	    | Oversees timeline, coordinates team, manages deliverables
+
 Frontend Developers |	Build the client-side of the app (web or mobile), implement property listing pages, booking forms, host dashboards, maps, calendars, and                           | payment forms, and ensure responsive design
+
 Backend Developers	| Responsible for building APIs that will fetch map data to help in property location, handle user authentication, property data management,                         | booking logic, payments, and notifications. ensure security and scalability (e.g., preventing double bookings, handling high traffic).
+
 Designers	          | Create web, tablet, and mobile mockups of the app, Design search filters, booking calendar, property listings, and maps integration.
                     | Ensure the app is intuitive, visually appealing, and user-friendly. Ensures UX quality by making the booking process easy.
+                    
 QA/Testers	        | Test the app’s functionality across devices and browsers, write test cases for booking flows, property uploads, payments, and messaging,                           | report bugs
+
 DevOps Engineers	  | Manages deployment, CI/CD pipeline, server infrastructure
+
 Product Owner	      | Defines features, priorities, and business value (e.g., search filters, booking flow, host dashboards), represents stakeholders.
+
 Scrum Master	      | Facilitates agile processes, removes blockers, organizes meetings
 
 
